@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.24.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_AJUU" Alignment="Left" TypographyId="Super">
+        <Translation Language="GB">5</Translation>
+      </Text>
+      <Text Id="__SingleUse_A725" Alignment="Center" TypographyId="Super">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_ARG1" Alignment="Left" TypographyId="SmallerBold">
+        <Translation Language="GB">F</Translation>
+      </Text>
+      <Text Id="__SingleUse_OH0J" Alignment="Left" TypographyId="SmallerBold">
+        <Translation Language="GB">90</Translation>
+      </Text>
+      <Text Id="__SingleUse_6N3E" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_8VCP" Alignment="Center" TypographyId="SmallerBold">
+        <Translation Language="GB">Heavy audio disturbance detected</Translation>
+      </Text>
+      <Text Id="__SingleUse_J6RC" Alignment="Left" TypographyId="SmallerBold">
+        <Translation Language="GB">Skip &amp; Connect</Translation>
+      </Text>
+      <Text Id="__SingleUse_QAMF" Alignment="Left" TypographyId="SmallBold">
+        <Translation Language="GB">Start</Translation>
+      </Text>
+      <Text Id="__SingleUse_W4PH" Alignment="Left" TypographyId="SmallBold">
+        <Translation Language="GB">No</Translation>
+      </Text>
+      <Text Id="__SingleUse_5R4E" Alignment="Left" TypographyId="SmallBold">
+        <Translation Language="GB">Yes</Translation>
+      </Text>
+      <Text Id="__SingleUse_C9H2" Alignment="Left" TypographyId="SmallBold">
+        <Translation Language="GB">Stop</Translation>
+      </Text>
+      <Text Id="__SingleUse_SMAE" Alignment="Left" TypographyId="SmallBold">
+        <Translation Language="GB">Start</Translation>
+      </Text>
+      <Text Id="__SingleUse_GS6K" Alignment="Left" TypographyId="SmallBold">
+        <Translation Language="GB">Start</Translation>
+      </Text>
+      <Text Id="__SingleUse_5SLV" Alignment="Left" TypographyId="Typography_09">
+        <Translation Language="GB">Reconnect</Translation>
+      </Text>
+      <Text Id="__SingleUse_5BO8" Alignment="Left" TypographyId="Super">
+        <Translation Language="GB">dasdasdasas</Translation>
+      </Text>
+      <Text Id="__SingleUse_AMIZ" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">Truc</Translation>
+      </Text>
+      <Text Id="__SingleUse_MIY7" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">Add new profile</Translation>
+      </Text>
+      <Text Id="__SingleUse_RP9Y" Alignment="Left" TypographyId="SmallBold">
+        <Translation Language="GB">Pet Owner</Translation>
+      </Text>
+      <Text Id="__SingleUse_8RKB" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Tommmmm</Translation>
+      </Text>
+      <Text Id="__SingleUse_UAAR" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_E5QO" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_Y5OU" Alignment="Left" TypographyId="SmallBold">
+        <Translation Language="GB">Edit</Translation>
+      </Text>
+      <Text Id="__SingleUse_9IF0" Alignment="Left" TypographyId="DefaultBold">
+        <Translation Language="GB">Volume control</Translation>
+      </Text>
+      <Text Id="__SingleUse_DVEN" Alignment="Left" TypographyId="DefaultBold">
+        <Translation Language="GB">Volumeeeee</Translation>
+      </Text>
+      <Text Id="__SingleUse_3DJ8" Alignment="Left" TypographyId="DefaultBold">
+        <Translation Language="GB">Saved</Translation>
+      </Text>
+      <Text Id="__SingleUse_CRKK" Alignment="Left" TypographyId="Typography_12">
+        <Translation Language="GB">15</Translation>
+      </Text>
+      <Text Id="__SingleUse_E1YP" Alignment="Left" TypographyId="Typography_12">
+        <Translation Language="GB">&lt;value&gt;sec</Translation>
+      </Text>
+      <Text Id="__SingleUse_PAHR" Alignment="Left" TypographyId="SmallBold">
+        <Translation Language="GB">Stop</Translation>
+      </Text>
+      <Text Id="__SingleUse_ARB4" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">Start</Translation>
+      </Text>
+      <Text Id="__SingleUse_SCFA" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Auscultation</Translation>
+      </Text>
+      <Text Id="__SingleUse_VS83" Alignment="Left" TypographyId="Typography_12">
+        <Translation Language="GB">15</Translation>
+      </Text>
+      <Text Id="__SingleUse_4984" Alignment="Center" TypographyId="Typography_05">
+        <Translation Language="GB">&lt;value&gt;s</Translation>
+      </Text>
+      <Text Id="__SingleUse_VA24" Alignment="Left" TypographyId="Typography_12">
+        <Translation Language="GB">15</Translation>
+      </Text>
+      <Text Id="__SingleUse_2WE3" Alignment="Left" TypographyId="Typography_12">
+        <Translation Language="GB">&lt;value&gt;sec</Translation>
+      </Text>
+      <Text Id="__SingleUse_P0AN" Alignment="Left" TypographyId="UltraBig">
+        <Translation Language="GB">_ _</Translation>
+      </Text>
+      <Text Id="__SingleUse_BXSF" Alignment="Right" TypographyId="UltraBig">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_9ZF7" Alignment="Left" TypographyId="Typography_12">
+        <Translation Language="GB">15</Translation>
+      </Text>
+      <Text Id="__SingleUse_DKWW" Alignment="Left" TypographyId="Typography_12">
+        <Translation Language="GB">&lt;value&gt;sec</Translation>
+      </Text>
+      <Text Id="__SingleUse_4N64" Alignment="Left" TypographyId="Super">
+        <Translation Language="GB">LL2</Translation>
+      </Text>
+      <Text Id="__SingleUse_P3IG" Alignment="Center" TypographyId="Typography_05">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_WBQ8" Alignment="Left" TypographyId="Super">
+        <Translation Language="GB">LL2</Translation>
+      </Text>
+      <Text Id="__SingleUse_0UWY" Alignment="Center" TypographyId="Typography_05">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZMVO" Alignment="Left" TypographyId="Super">
+        <Translation Language="GB">LL2</Translation>
+      </Text>
+      <Text Id="__SingleUse_CBSD" Alignment="Center" TypographyId="Typography_05">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_XZ92" Alignment="Left" TypographyId="Super">
+        <Translation Language="GB">LL2</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZXSY" Alignment="Left" TypographyId="Super">
+        <Translation Language="GB">Others</Translation>
+      </Text>
+      <Text Id="__SingleUse_7G1H" Alignment="Center" TypographyId="Super">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_I9KN" Alignment="Left" TypographyId="Typography_12">
+        <Translation Language="GB">M</Translation>
+      </Text>
+      <Text Id="__SingleUse_8R2Z" Alignment="Left" TypographyId="SuperBig">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_CF97" Alignment="Center" TypographyId="DefaultBold">
+        <Translation Language="GB">Save &amp; Exit</Translation>
+      </Text>
+      <Text Id="__SingleUse_UZZK" Alignment="Left" TypographyId="Typography_12">
+        <Translation Language="GB">Good</Translation>
+      </Text>
+      <Text Id="__SingleUse_EXYV" Alignment="Left" TypographyId="Typography_12">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_HRU6" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">Signal Quality</Translation>
+      </Text>
+      <Text Id="__SingleUse_7520" Alignment="Left" TypographyId="DefaultBold">
+        <Translation Language="GB">Normal</Translation>
+      </Text>
+      <Text Id="__SingleUse_8Z3P" Alignment="Left" TypographyId="UltraBig">
+        <Translation Language="GB">_ _</Translation>
+      </Text>
+      <Text Id="__SingleUse_43EB" Alignment="Right" TypographyId="UltraBig">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_O1QG" Alignment="Left" TypographyId="UltraBig">
+        <Translation Language="GB">_ _</Translation>
+      </Text>
+      <Text Id="__SingleUse_YFGE" Alignment="Left" TypographyId="UltraBig">
+        <Translation Language="GB">Please place a silicone grid on top of the right side of the dog's first nipple as a reference point for the grid.</Translation>
+      </Text>
+      <Text Id="__SingleUse_RFG9" Alignment="Left" TypographyId="Typography_12">
+        <Translation Language="GB">5</Translation>
+      </Text>
+      <Text Id="__SingleUse_L6EP" Alignment="Center" TypographyId="Typography_12">
+        <Translation Language="GB">Your device will reboot in &lt;value&gt; secs</Translation>
+      </Text>
+      <Text Id="__SingleUse_OQD7" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Update</Translation>
+      </Text>
+      <Text Id="__SingleUse_ECUM" Alignment="Left" TypographyId="Typography_12">
+        <Translation Language="GB">Version 1.1.2 is installed, device will reboot in 5 secs</Translation>
+      </Text>
+      <Text Id="__SingleUse_OU24" Alignment="Left" TypographyId="Typography_12">
+        <Translation Language="GB">Firmware version : 1.1.1</Translation>
+      </Text>
+      <Text Id="__SingleUse_LRSS" Alignment="Left" TypographyId="Typography_10">
+        <Translation Language="GB">°&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_0NZX" Alignment="Left" TypographyId="SmallBold">
+        <Translation Language="GB">Unit</Translation>
+      </Text>
+      <Text Id="__SingleUse_8JHT" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Temperature</Translation>
+      </Text>
+      <Text Id="__SingleUse_B9Y4" Alignment="Left" TypographyId="SmallBold">
+        <Translation Language="GB">Sleep time</Translation>
+      </Text>
+      <Text Id="__SingleUse_8LBV" Alignment="Left" TypographyId="SmallBold">
+        <Translation Language="GB">Brightness</Translation>
+      </Text>
+      <Text Id="__SingleUse_S0T7" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Display setting</Translation>
+      </Text>
+      <Text Id="__SingleUse_JSL0" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Volume control</Translation>
+      </Text>
+      <Text Id="__SingleUse_LUYB" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_CS3J" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">Previously Connected</Translation>
+      </Text>
+      <Text Id="__SingleUse_49Q9" Alignment="Center" TypographyId="SmallBold">
+        <Translation Language="GB">Connect New Wi-fi</Translation>
+      </Text>
+      <Text Id="__SingleUse_D3BE" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_QS5S" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">Currently connected to, </Translation>
+      </Text>
+      <Text Id="__SingleUse_5KGI" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Wi-Fi</Translation>
+      </Text>
+      <Text Id="__SingleUse_FJ70" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt; Rajkumar has been successfully added to this device</Translation>
+      </Text>
+      <Text Id="__SingleUse_QN9J" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Truc</Translation>
+      </Text>
+      <Text Id="__SingleUse_621T" Alignment="Left" TypographyId="Typography_09">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_CZOS" Alignment="Center" TypographyId="Typography_05">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_5O3D" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Auscultation</Translation>
+      </Text>
+      <Text Id="__SingleUse_JFJ3" Alignment="Center" TypographyId="Typography_05">
+        <Translation Language="GB">Right&#10; side&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_FZRI" Alignment="Center" TypographyId="Typography_05">
+        <Translation Language="GB">Left side&#10;&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_VW7E" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">New profile</Translation>
+      </Text>
+      <Text Id="__SingleUse_LJMN" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Scan this QR code from&#10;your mobile device to &#10;add a new profile</Translation>
+      </Text>
+      <Text Id="nameText" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Truc</Translation>
+      </Text>
+      <Text Id="__SingleUse_PHL8" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Do you really&#10;want to sign out&#10; &lt;value&gt; from&#10;this device?</Translation>
+      </Text>
+      <Text Id="__SingleUse_RT2V" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Open the mobile app to add&#10;new profile or make changes </Translation>
+      </Text>
+      <Text Id="__SingleUse_QQFI" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_4L75" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">ECG</Translation>
+      </Text>
+      <Text Id="__SingleUse_CHGP" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Heart &#10;Rate</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZEI3" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Bpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_B0AK" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Graph</Translation>
+      </Text>
+      <Text Id="__SingleUse_4R7A" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">_ _</Translation>
+      </Text>
+      <Text Id="__SingleUse_M8ZF" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Graph</Translation>
+      </Text>
+      <Text Id="__SingleUse_L372" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Bpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_IRNH" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">ECG</Translation>
+      </Text>
+      <Text Id="__SingleUse_X9MK" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Heart &#10;Rate</Translation>
+      </Text>
+      <Text Id="__SingleUse_62Z3" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Next&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_RUJG" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Follow instructions&#10; given in the user&#10; manual</Translation>
+      </Text>
+      <Text Id="__SingleUse_0NVA" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">Signal Quality</Translation>
+      </Text>
+      <Text Id="__SingleUse_2FI3" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">SPO2</Translation>
+      </Text>
+      <Text Id="__SingleUse_Z2LX" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Heart Rate</Translation>
+      </Text>
+      <Text Id="__SingleUse_8BDF" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">bpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_WOH4" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">%</Translation>
+      </Text>
+      <Text Id="__SingleUse_HSHU" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">_ _</Translation>
+      </Text>
+      <Text Id="__SingleUse_XIYU" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">_ _</Translation>
+      </Text>
+      <Text Id="__SingleUse_ACUK" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">_ _</Translation>
+      </Text>
+      <Text Id="__SingleUse_UNUV" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">SPO2</Translation>
+      </Text>
+      <Text Id="__SingleUse_24EE" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">PI</Translation>
+      </Text>
+      <Text Id="__SingleUse_9U7O" Alignment="Right" TypographyId="UltraBig">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_VT74" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_QVKL" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">%</Translation>
+      </Text>
+      <Text Id="__SingleUse_HR20" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">bpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_BZZQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">PI</Translation>
+      </Text>
+      <Text Id="__SingleUse_KUXW" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">SPO2</Translation>
+      </Text>
+      <Text Id="__SingleUse_FUAH" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Heart Rate</Translation>
+      </Text>
+      <Text Id="__SingleUse_YWM8" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">SPO2</Translation>
+      </Text>
+      <Text Id="__SingleUse_OQIZ" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Place the sensor&#10; clip on the ear flap&#10; or lip of the dog.</Translation>
+      </Text>
+      <Text Id="__SingleUse_DS8K" Alignment="Left" TypographyId="SmallBold">
+        <Translation Language="GB">Please connect a temperature probe.</Translation>
+      </Text>
+      <Text Id="__SingleUse_T1SY" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Temperature</Translation>
+      </Text>
+      <Text Id="__SingleUse_SMZL" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">Naruuuu</Translation>
+      </Text>
+      <Text Id="__SingleUse_1HQE" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">&lt;value&gt;’s temperature is in the safe region</Translation>
+      </Text>
+      <Text Id="__SingleUse_H3S7" Alignment="Left" TypographyId="Super">
+        <Translation Language="GB">95 F</Translation>
+      </Text>
+      <Text Id="__SingleUse_HQL8" Alignment="Center" TypographyId="Super">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_BXAU" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Temperature</Translation>
+      </Text>
+      <Text Id="__SingleUse_4V5H" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">1</Translation>
+      </Text>
+      <Text Id="__SingleUse_YETH" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">T&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_JS3W" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Temperature</Translation>
+      </Text>
+      <Text Id="__SingleUse_RARW" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_75UU" Alignment="Left" TypographyId="SmallerBold">
+        <Translation Language="GB">ECG</Translation>
+      </Text>
+      <Text Id="__SingleUse_B9GR" Alignment="Center" TypographyId="DefaultBold">
+        <Translation Language="GB">Tommmmm</Translation>
+      </Text>
+      <Text Id="__SingleUse_8JVW" Alignment="Left" TypographyId="SmallerBold">
+        <Translation Language="GB">Temperature</Translation>
+      </Text>
+      <Text Id="__SingleUse_URDR" Alignment="Left" TypographyId="SmallerBold">
+        <Translation Language="GB">Auscultation</Translation>
+      </Text>
+      <Text Id="__SingleUse_CSRC" Alignment="Left" TypographyId="SmallerBold">
+        <Translation Language="GB">SPO2 &amp; HR</Translation>
+      </Text>
+      <Text Id="__SingleUse_CL4C" Alignment="Left" TypographyId="SmallBold">
+        <Translation Language="GB">Redirect to mobile app</Translation>
+      </Text>
+      <Text Id="__SingleUse_YY3K" Alignment="Center" TypographyId="Typography_08">
+        <Translation Language="GB">Link RFID number&#10;with a pet profile &#10;on your phone</Translation>
+      </Text>
+      <Text Id="__SingleUse_09IW" Alignment="Left" TypographyId="Typography_06">
+        <Translation Language="GB">RFID Unlinked </Translation>
+      </Text>
+      <Text Id="__SingleUse_L8ZQ" Alignment="Center" TypographyId="Typography_05">
+        <Translation Language="GB">Add</Translation>
+      </Text>
+      <Text Id="__SingleUse_ND6P" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Try again</Translation>
+      </Text>
+      <Text Id="__SingleUse_BWIM" Alignment="Left" TypographyId="Typography_08">
+        <Translation Language="GB">Cover greater area to&#10; identify RFID number</Translation>
+      </Text>
+      <Text Id="__SingleUse_7HXM" Alignment="Left" TypographyId="Typography_10">
+        <Translation Language="GB">Scan your pet</Translation>
+      </Text>
+      <Text Id="__SingleUse_3KP7" Alignment="Left" TypographyId="Typography_06">
+        <Translation Language="GB">Not identified</Translation>
+      </Text>
+      <Text Id="__SingleUse_DNTS" Alignment="Left" TypographyId="Typography_05">
+        <Translation Language="GB">Scan new</Translation>
+      </Text>
+      <Text Id="__SingleUse_82UP" Alignment="Left" TypographyId="Typography_05">
+        <Translation Language="GB">Next</Translation>
+      </Text>
+      <Text Id="__SingleUse_EOKP" Alignment="Left" TypographyId="DefaultBold">
+        <Translation Language="GB">TOM</Translation>
+      </Text>
+      <Text Id="__SingleUse_9EKO" Alignment="Left" TypographyId="SmallerBold">
+        <Translation Language="GB">1234567890</Translation>
+      </Text>
+      <Text Id="__SingleUse_ILGN" Alignment="Left" TypographyId="SmallerBold">
+        <Translation Language="GB">RFID: </Translation>
+      </Text>
+      <Text Id="__SingleUse_0ROF" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">Scan new</Translation>
+      </Text>
+      <Text Id="__SingleUse_JPTC" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">Next</Translation>
+      </Text>
+      <Text Id="__SingleUse_J1EX" Alignment="Left" TypographyId="SmallerBold">
+        <Translation Language="GB">1234567890</Translation>
+      </Text>
+      <Text Id="__SingleUse_9Z31" Alignment="Left" TypographyId="DefaultBold">
+        <Translation Language="GB">TOM</Translation>
+      </Text>
+      <Text Id="__SingleUse_KUYV" Alignment="Left" TypographyId="SmallerBold">
+        <Translation Language="GB">RFID: </Translation>
+      </Text>
+      <Text Id="__SingleUse_LZU6" Alignment="Left" TypographyId="Typography_06">
+        <Translation Language="GB">RFID Scan</Translation>
+      </Text>
+      <Text Id="anotherProfilesText" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Tomm</Translation>
+      </Text>
+      <Text Id="nameDefaultText" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Tommmmm</Translation>
+      </Text>
+      <Text Id="__SingleUse_7WDM" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">Live call</Translation>
+      </Text>
+      <Text Id="__SingleUse_V9RJ" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">Forward Call</Translation>
+      </Text>
+      <Text Id="__SingleUse_D05A" Alignment="Left" TypographyId="DefaultBold">
+        <Translation Language="GB">Add from mobile</Translation>
+      </Text>
+      <Text Id="__SingleUse_3XO0" Alignment="Left" TypographyId="DefaultBold">
+        <Translation Language="GB">Scan RFID</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZNSL" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Pet Profiles</Translation>
+      </Text>
+      <Text Id="__SingleUse_54FB" Alignment="Left" TypographyId="SmallBold">
+        <Translation Language="GB">Doctor</Translation>
+      </Text>
+      <Text Id="__SingleUse_M3F7" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">Wifi connection not available</Translation>
+      </Text>
+      <Text Id="__SingleUse_WFEX" Alignment="Left" TypographyId="Super">
+        <Translation Language="GB">Connected to &lt;value&gt; Wifi</Translation>
+      </Text>
+      <Text Id="__SingleUse_2DTM" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">mobile device to connect</Translation>
+      </Text>
+      <Text Id="__SingleUse_UKSR" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">Scan this QR code from your </Translation>
+      </Text>
+      <Text Id="__SingleUse_1WQK" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Setup wifi</Translation>
+      </Text>
+      <Text Id="__SingleUse_DEJJ" Alignment="Center" TypographyId="Super">
+        <Translation Language="GB">Who are you?</Translation>
+      </Text>
+      <Text Id="doctorButton" Alignment="Center" TypographyId="Super">
+        <Translation Language="GB">Doctor</Translation>
+      </Text>
+      <Text Id="petOwnerButton" Alignment="Center" TypographyId="Super">
+        <Translation Language="GB">Pet Owner</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="arial.ttf" Size="17" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="Large" Font="arialbd.ttf" Size="22" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="Small" Font="arial.ttf" Size="14" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="Typography_00" Font="arialbd.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="Super" Font="arialbd.ttf" Size="27" Bpp="4" IsVector="no" Direction="RTL" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="SmallBold" Font="arialbd.ttf" Size="15" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="DefaultBold" Font="arialbd.ttf" Size="17" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="SmallerBold" Font="arialbd.ttf" Size="13" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="Typography_05" Font="arialbd.ttf" Size="25" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="Typography_06" Font="arialbd.ttf" Size="23" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="SuperBig" Font="arialbd.ttf" Size="30" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="Typography_08" Font="verdana.ttf" Size="18" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="Typography_09" Font="arial.ttf" Size="12" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="Typography_10" Font="arial.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="UltraBig" Font="arialbd.ttf" Size="38" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="Typography_12" Font="arialbd.ttf" Size="14" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="Typography_01" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7E" />
+  </Typographies>
+</TextDatabase>
